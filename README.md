@@ -1,6 +1,6 @@
-# roomiez_app
+# Guppi_app
 
-Roomate communication and organization in Flutter
+Anonymous Random Chat for college students in Flutter
 
 ## Getting Started
 
